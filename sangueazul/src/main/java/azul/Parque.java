@@ -9,5 +9,6 @@ public class Parque {
             Gato ed=new Gato ("sangue");
             ed.miar();
             return 0;
+            //0
     }
 }
